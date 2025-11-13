@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <h2 style="color:#ff9933;">## 🖥️ Operating Systems i use <h2>
+  <h2 style="color:#ff9933;">🖥️ Operating Systems i use <h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,ubuntu,arch,linux" />
 </p>
