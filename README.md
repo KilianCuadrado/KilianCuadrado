@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <h2 style="color:#4d79ff;">🧰 Programming Languages</h2>
+  <h2 style="color:#4d79ff;">🧰 Programming Languages i use </h2>
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,php,python,kotlin,bash" />
   </p>
@@ -26,10 +26,10 @@
 ---
 
 <div align="center">
-  <h2 style="color:#ff9933;">🖥️ Operating Systems & Apps</h2>
-  <p>
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,popos,archlinux,fedora,ubuntu-server" />
-  </p>
+  <h2 style="color:#ff9933;">## 🖥️ Operating Systems i use <h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,archlinux,linux" />
+</p>
 </div>
 
 ---
