@@ -10,7 +10,7 @@
   <p>
     🎓 Currently studying Web Application Development (DAW) at ITB<br>
     💡 Passionate about front-end development and crafting clean, functional web designs<br>
-    🚀 Starting my first personal project soon — stay tuned!
+    🚀 Starting my first personal project — stay tuned!
   </p>
 </div>
 
