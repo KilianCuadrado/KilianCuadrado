@@ -1,4 +1,14 @@
-<h1 align="center">Hey, i'm, Kilian Cuadrado 👋</h1>
+<h1 align="center">Hello there, i'm Kilian Cuadrado 👋</h1>
+```kotlin
+class FrontEndDev {
+    var name: String = "Kilian Cuadrado"
+    var personal_motto: String = "Come and get your code"
+    var spoken_languages: List<String> = listOf("es_ES", "en_UK", "ca_ES")
+    fun helloworld() {
+        println("Thanks for dropping by you are more than welcome to pull anything.")
+    }
+}
+```
 <p align="center">
   💻 Web Developer in training | 📍 Based in ITB
 </p>
