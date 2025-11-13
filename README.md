@@ -1,4 +1,4 @@
-<h1 align="center">Kilian Cuadrado 👋</h1>
+<h1 align="center">Hey, i'm, Kilian Cuadrado 👋</h1>
 <p align="center">
   💻 Web Developer in training | 📍 Based in ITB
 </p>
