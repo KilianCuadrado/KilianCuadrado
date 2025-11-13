@@ -37,8 +37,8 @@
 <div align="center">
   <h2 style="color:#00b300;">📫 Get In Touch</h2>
   <p>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-Kilian%40example.com-blue?style=for-the-badge&logo=gmail" />
+    <a href="mailto:kiliancuadradobarbero@gmail.com">
+      <img src="https://img.shields.io/badge/Email-kiliancuadradobarberon%40gmail.com-blue?style=for-the-badge&logo=gmail" />
     </a>
     <a href="https://www.linkedin.com/in/kiliancuadradobarbero" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-KilianCuadrado-blue?style=for-the-badge&logo=linkedin" />
