@@ -5,7 +5,7 @@ class FrontEndDev {
     var spoken_languages: List<String> = listOf("es_ES", "en_UK", "ca_ES")
 
     fun helloWorld() {
-        println("Thanks for dropping by — you are more than welcome to pull anything.")
+        println("Thanks for dropping by — you are more than welcome to copy anything.")
     }
 }
 ```
