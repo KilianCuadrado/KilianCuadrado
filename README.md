@@ -1,3 +1,10 @@
+
+<h1 align="center">Hello there, i'm Kilian Cuadrado 👋</h1>
+
+<p align="center">
+  💻 Web Developer in training | 📍 Based in ITB
+</p>
+
 ```kotlin
 class FrontEndDev {
     var name: String = "Kilian Cuadrado"
@@ -9,12 +16,6 @@ class FrontEndDev {
     }
 }
 ```
-
-<h1 align="center">Hello there, i'm Kilian Cuadrado 👋</h1>
-
-<p align="center">
-  💻 Web Developer in training | 📍 Based in ITB
-</p>
 
 ---
 
