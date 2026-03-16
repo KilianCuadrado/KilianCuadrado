@@ -31,19 +31,19 @@ class BackEndDev {
 ---
 
 <div align="center">
-  <h2 style="color:#4d79ff;">🧰 Programming Languages i use </h2>
+  <h2 style="color:#ad323f;">🧰 Programming Languages i use </h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,kotlin,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,kotlin,bootstrap,tailwind" />
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2 style="color:#ff9933;">🖥️ Operating Systems i use <h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,arch,linux" />
-</p>
+  <h2 style="color:#4d79ff;">Tools i use </h2>
+  <p>
+    <img src="https://skillicons.dev/icons?i=github,git,docker,figma,notion,postgres,gradle,mysql,neovim,obsidian" />
+  </p>
 </div>
 
 ---
