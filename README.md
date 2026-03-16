@@ -6,9 +6,9 @@
 </p>
 
 ```kotlin
-class FrontEndDev {
+class BackEndDev {
     var name: String = "Kilian Cuadrado"
-    var personal_motto: String = "Come and get your code"
+    var personal_proyect: String = "UpArch"
     var spoken_languages: List<String> = listOf("es_ES", "en_UK", "ca_ES")
 
     fun helloWorld() {
