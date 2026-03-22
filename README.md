@@ -123,21 +123,18 @@ class BackEndDev {
 ---
 
 ## 🚀 Current Project
-
-### UpArch - Local Network Storage Manager
-
-**What:** Open-source self-hosted file management solution (inspired by Nextcloud)
+### UpArch — Self-hosted Local Network Storage
+**What:** Open-source self-hosted file storage service. Control your files, your way.
 
 **Tech Stack:**
 - Backend: FastAPI (Python)
 - Frontend: HTML/CSS + Vanilla JavaScript
-- Database: MariaDB
+- Database: SQLite
 - Deployment: Docker
 
 **What I'm Learning:**
 - Backend API design & architecture
 - JWT authentication & security
-- Database optimization
 - Docker containerization
 - Frontend-Backend integration
 - File upload/download handling
@@ -150,7 +147,6 @@ class BackEndDev {
 - 🟡 Shareable links with expiration
 
 **Status:** 🚧 Early Development — MVP in progress
-
 ---
 
 ## 📚 Education & Training
