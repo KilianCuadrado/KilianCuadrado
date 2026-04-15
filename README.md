@@ -33,47 +33,18 @@ class BackEndDev {
 
 **Languages:**
 - HTML, CSS, JavaScript (Vanilla)
-- Python, Kotlin
+- Python, Kotlin, Node.js, PHP
 - Bootstrap, Tailwind
 
 **Tools & Platforms:**
-- Git, GitHub, Docker
+- Git, GitHub, Docker, GitHub Actions
 - Figma, Notion
 - MySQL, MariaDB, SQLite
 - Gradle, Neovim, Obsidian
 
 ---
 
-## 🎯 Featured Projects
-
-### 🎬 Netflix CRUD Database Manager
-**What:** Full-featured Kotlin + JavaFX desktop application for managing Netflix media database
-
-**Tech:** 
-- Kotlin 1.9.21
-- JavaFX 20 (GUI)
-- SQLite + PostgreSQL (Supabase)
-- Gradle, MVC + DAO Pattern
-
-**Features:**
-- ✅ Complete CRUD operations (Create, Read, Update, Delete)
-- ✅ Advanced search & filtering by multiple fields
-- ✅ Sort by any column (ascending/descending)
-- ✅ Export to CSV, TXT, Binary formats
-- ✅ Import from file (TXT/CSV or Binary)
-- ✅ Analytics: Top countries, trending years, genre analysis
-- ✅ Multi-database support (local SQLite + remote PostgreSQL)
-- ✅ Professional GUI with Light/Dark theme toggle
-- ✅ MVC Architecture with DAO Design Pattern
-- ✅ Complex data modeling (Media, Pelicula, Series, Directors, Actors, Genres)
-
-**Status:** ✨ Functional & Production-Ready
-
-📍 **[GitHub Repository](https://github.com/KilianCuadrado/netflix-crud-app)** | [Full Documentation](https://github.com/KilianCuadrado/netflix-crud-app#readme)
-
----
-
-### ⚔️ Battle Simulator - Fase 5
+### ⚔️ Battle Simulator - Fase 6
 **What:** Interactive browser-based combat simulator with procedural enemy waves and turn-based mechanics
 
 **Tech:**
@@ -99,26 +70,6 @@ class BackEndDev {
 
 📍 **[GitHub Repository](https://github.com/KilianCuadrado/battle-simulator)** | [Full Documentation](https://github.com/KilianCuadrado/battle-simulator#readme)
 
----
-
-### 🔧 Kotlin Useful Functions Library
-**What:** Reusable utility functions for Kotlin applications - common patterns and helpers
-
-**Tech:** Kotlin • OOP • Data Structures
-
-**Includes:**
-- 📋 Interactive menu system with validated input
-- 🕐 System date/time reading utilities
-- 🔢 Safe number validation with error handling
-- 📝 Helper functions for I/O operations
-- 🎯 Common programming patterns
-- ✅ Console input/output helpers
-- ✅ Data type conversions
-- ✅ String manipulation utilities
-
-**Status:** 📚 Active Development
-
-📍 **[GitHub Repository](https://github.com/KilianCuadrado/Kotlin_Useful_Functions)**
 
 ---
 
@@ -161,7 +112,7 @@ class BackEndDev {
 - Design Patterns (MVC, DAO, Strategy)
 - Database Design & SQL
 - Desktop GUI Development (JavaFX)
-- Web Technologies (HTML/CSS/JS)
+- Web Technologies (HTML/CSS/JS/Node.js/PHP)
 - Version Control (Git/GitHub)
 - Docker & Containerization
 
@@ -203,19 +154,6 @@ class BackEndDev {
 ![Kilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KilianCuadrado&show_icons=true&theme=radical&hide=contribs,prs)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KilianCuadrado&layout=compact&theme=radical)
-
----
-
-## 🎯 Goals
-
-- ✅ Build strong foundational skills across the full stack
-- ✅ Complete DAW program with real projects
-- ✅ Contribute to open-source communities
-- ✅ Create a meaningful GitHub portfolio
-- ✅ Learn best practices & clean code principles
-- 🎯 Deploy first production application (UpArch)
-- 🎯 Master backend architecture patterns
-- 🎯 Build projects that solve real problems
 
 ---
 
